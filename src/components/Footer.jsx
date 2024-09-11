@@ -9,7 +9,7 @@ const Footer = () => {
         <p>Email: test@test.com</p>
       </div>
       <div className="footer-logo">
-        <h2>OUR LIBRARY</h2>
+        <h2>Little lemon restaurant</h2>
       </div>
     </footer>
   );
